@@ -1,0 +1,10 @@
+{
+  "ad_number": 14,
+  "contents": "Looking for a qualified applicant.",
+  "applicants": 12,
+  "biases": {
+    "gender": 2,
+    "ethnicity": 5,
+    "age": 2
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "ad_number": 15,
+    "contents": "Looking for a high-pressure environment.",
+    "applicants": 12,
+    "biases": {
+        "gender": 20,
+        "ethnicity": 50,
+        "age": 25
+    }
+}

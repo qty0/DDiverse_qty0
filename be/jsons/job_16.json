@@ -1,0 +1,10 @@
+{
+    "ad_number": 16,
+    "contents": "Looking for a helpful individual.",
+    "applicants": 12,
+    "biases": {
+        "gender": 50,
+        "ethnicity": 80,
+        "age": 1
+    }
+}
