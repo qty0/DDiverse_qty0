@@ -7,7 +7,7 @@
           <div class="col">
             <input
               v-model="searchId"
-              type="text"
+              type="number"
               class="form-control"
               placeholder="Search for…"
             />
