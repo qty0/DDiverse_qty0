@@ -78,7 +78,7 @@ export default {
     };
   },
   methods: {
-    searchForJob() {
+    async searchForJob() {
       const id = this.searchId;
       if (id.length > 300 || id.length < 1) {
         return null;
